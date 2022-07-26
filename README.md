@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tushards31
 - 👀 I’m interested in DevOps and AI&ML 
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on basically anything a beginner can do
 - 📫 You can reach me through my email: tushar.ds31@outlook.com or tushar.ds312004@gmail.com
 
