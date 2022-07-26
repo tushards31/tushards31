@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tushards31
+- 👋 Hi, I’m Tushar D S, from Bangalore
 - 👀 I’m interested in DevOps and AI&ML 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on basically anything a beginner can do
